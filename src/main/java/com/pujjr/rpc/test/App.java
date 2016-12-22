@@ -1,4 +1,4 @@
-package com.pujjr.rpc.RpcTest;
+package com.pujjr.rpc.test;
 
 /**
  * Hello world!
